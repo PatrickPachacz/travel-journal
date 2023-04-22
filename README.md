@@ -12,7 +12,7 @@ The entries are created using the .map() method with props on the data.js file, 
 - Custom Components
 - create-react-app
 - Figma
-- React Props
+- React Props (Card-image, name, start-date to end-date, body, country, location on google maps)
 - Creating Components from an Array
 - Mapping Components
 - github-pages
